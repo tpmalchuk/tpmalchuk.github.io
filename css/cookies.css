@@ -1,0 +1,31 @@
+.cookie-message {
+    background-color: rgb(54, 10, 27);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.cookie_btn {
+    display: inline-block;
+    margin: 10px 6px 4px 6px;
+    text-decoration: none;
+    position: relative;
+    font-size: 13px;
+    padding: 4px 12px;
+    color: #fcf8f8;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: rgb(71, 7, 34);
+    border: 2px solid #9b9393;
+    border-radius: 5%;
+}
+
+.cookie_btn:hover {
+    color: #999191;
+    background: #FFF;
+}
